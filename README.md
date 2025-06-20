@@ -22,7 +22,6 @@ This project  will preprocess a dataset for handwritten digit recognition, build
 
 <h2>Languages and Environments Used</h2>
 
-- <b> Python </b> 
 - <b> Jupyter Notebook </b>
 - <b> HTML </b>
 - <b> PyTorch </b> 
